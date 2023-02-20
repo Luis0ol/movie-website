@@ -1,4 +1,34 @@
 body{
   margin: 0;
-  
+  background-color: antiquewhite;
+}
+
+h1{
+  text-align: left;
+  border: 4px;
+  width: 80%;
+  margin: 20px;
+  text-decoration: underline plum;
+  background-color: powderblue;
+  border-radius: 10px;
+}
+
+h2{
+  padding: 10px 20px;
+  border: 4px;
+  margin: 10px;
+  width: fit-content;
+  text-align: left;
+  text-decoration: underline plum;
+  border-radius: 10px;
+  background-color: powderblue;
+}
+
+p{
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 20px;
+  width: 80%;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: aquamarine;
 }
