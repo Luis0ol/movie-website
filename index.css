@@ -1,6 +1,7 @@
 body{
   margin: 0;
-  background-color: antiquewhite;
+  background-image: url();
+  min-height: 100vh;
 }
 
 h1{
@@ -32,3 +33,4 @@ p{
   font-family: 'Courier New', Courier, monospace;
   background-color: aquamarine;
 }
+
